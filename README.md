@@ -1,2 +1,2 @@
 # RayCaster
-Simple ray casting engine.
+Simple ray casting engine made with raylib
